@@ -27,7 +27,7 @@ The final model powers a live risk-scoring system that segments customers into *
 
 Enter a customer's account and service details and get their churn probability + risk category in real time.
 
-🔗 **[Add your Streamlit link here once deployed]**
+🔗 **[[https://telecom-customer-churn-prediction-9appegf8g3cweb2g8ejupo7.streamlit.app/]]**
 
 ## Files
 
